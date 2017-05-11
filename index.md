@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+<!–– and the comment closes with
+
 You can use the [editor on GitHub](https://github.com/zeldazunk/Wright-Etch/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -35,3 +37,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+  ––> 
+
+<h2>Wright Etch</h2>
+<img src="http://i237.photobucket.com/albums/ff295/zeldazunk/Wright%20Etch/Scan1_zpswj6ksq9m.png">
